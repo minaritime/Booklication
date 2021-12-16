@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="kr.example.booklication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:7:5-35:19
+14        android:allowBackup="true"
+14-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0] C:\AndroidSDK\caches\transforms-3\dab3fc94747462d371bcc7963ac5e68a\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_book"
+17-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:9:9-39
+18        android:label="@string/app_name"
+18-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:10:9-41
+19        android:networkSecurityConfig="@xml/network_security_config"
+19-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:14:9-69
+20        android:roundIcon="@mipmap/ic_book_round"
+20-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:11:9-50
+21        android:supportsRtl="true"
+21-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+23-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:15:9-65
+24        android:usesCleartextTraffic="true" >
+24-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:13:9-44
+25        <activity
+25-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:16:9-18:67
+26            android:name="kr.example.booklication.RecordActivity.RecordMain"
+26-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:16:19-60
+27            android:screenOrientation="portrait"
+27-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:17:13-49
+28            android:windowSoftInputMode="adjustResize|adjustPan" />
+28-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:18:13-65
+29        <activity
+29-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:19:9-21:67
+30            android:name="kr.example.booklication.CalendarActivity.CalendarMain"
+30-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:19:19-64
+31            android:screenOrientation="portrait"
+31-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:20:13-49
+32            android:windowSoftInputMode="adjustResize|adjustPan" />
+32-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:21:13-65
+33        <activity
+33-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:22:9-25:67
+34            android:name="kr.example.booklication.BookInfoActivity.BookInfoMain"
+34-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:22:19-64
+35            android:parentActivityName="kr.example.booklication.MainActivity"
+35-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:23:13-55
+36            android:screenOrientation="portrait"
+36-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:24:13-49
+37            android:windowSoftInputMode="adjustResize|adjustPan" />
+37-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:25:13-65
+38        <activity
+38-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:26:9-34:20
+39            android:name="kr.example.booklication.MainActivity"
+39-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:26:19-47
+40            android:screenOrientation="portrait"
+40-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:27:13-49
+41            android:windowSoftInputMode="adjustResize|adjustPan" >
+41-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:28:13-65
+42            <intent-filter>
+42-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:29:13-33:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:30:17-69
+43-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:30:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:32:17-77
+45-->C:\android_files\Booklication_0806_realendversion\app\src\main\AndroidManifest.xml:32:27-74
+46            </intent-filter>
+47        </activity>
+48    </application>
+49
+50</manifest>

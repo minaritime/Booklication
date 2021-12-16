@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Moon/Booklication_0803/app/src/main/res/layout/bottomsheetdialog1.xml" value="0.21302083333333333" />
+        <entry key="..\:/Moon/Booklication_0803/app/src/main/res/layout/bottomsheetdialog2.xml" value="0.21302083333333333" />
+        <entry key="..\:/Moon/Booklication_0803/app/src/main/res/layout/bottomsheetdialog3.xml" value="0.21302083333333333" />
+        <entry key="..\:/Moon/Booklication_0803/app/src/main/res/layout/fragment2_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38229166666666664" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/day_select.xml" value="0.38229166666666664" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/image_round.xml" value="0.25833333333333336" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/layout_round.xml" value="0.16145833333333334" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/layout_whiteround.xml" value="0.38229166666666664" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/listitem_line.xml" value="0.38229166666666664" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/loading_bg.xml" value="0.38229166666666664" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/main_button_rightround.xml" value="0.28489583333333335" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/main_button_round.xml" value="0.38229166666666664" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/menu_selector_color.xml" value="0.38229166666666664" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/drawable/underline.xml" value="0.25833333333333336" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/book_info_activity.xml" value="0.33" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/bottomsheetdialog1.xml" value="0.21302083333333333" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/bottomsheetdialog2.xml" value="0.21302083333333333" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/bottomsheetdialog3.xml" value="0.21302083333333333" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/calendar_activity.xml" value="0.25" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/calendar_listview_item.xml" value="0.5" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/fragment1.xml" value="0.21302083333333333" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/fragment1_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/fragment2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/fragment2_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/fragment3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/fragment3_item.xml" value="0.67" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/loading.xml" value="0.21302083333333333" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/main_listview_item.xml" value="0.5" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/record_activity.xml" value="0.22" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/search_activity.xml" value="0.2421875" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/layout/toolbar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/menu/navigation_menu.xml" value="0.26875" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/mipmap-anydpi-v26/ic_book.xml" value="0.28489583333333335" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/mipmap-anydpi-v26/ic_book_round.xml" value="0.28489583333333335" />
+        <entry key="..\:/Moon/Booklication_0804/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/drawable/library_select.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/drawable/roading_image.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/drawable/roading_set.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/book_info_activity.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/calendar_activity.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/calendar_listview_item.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/fragment1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/fragment1_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/fragment2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/fragment2_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/fragment3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/fragment3_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/main_listview_item.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/record_activity.xml" value="0.22" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/roading.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0729/app/src/main/res/layout/toolbar.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0731/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0731/app/src/main/res/layout/bottomsheetdialog1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0731/app/src/main/res/layout/bottomsheetdialog2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0731/app/src/main/res/layout/bottomsheetdialog3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0731/app/src/main/res/layout/customdialog_calender.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Desktop/Omae/Booklication_0731/app/src/main/res/layout/fragment2_item.xml" value="0.67" />
+        <entry key="..\:/android_files/Booklication_0806_realendversion/app/src/main/res/layout/book_info_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0806_realendversion/app/src/main/res/layout/bottomsheetdialog2.xml" value="0.2046875" />
+        <entry key="..\:/android_files/Booklication_0806_realendversion/app/src/main/res/menu/navigation_menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/book_info_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/calendar_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/fragment1.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/fragment2.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/fragment2_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/fragment3.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/fragment3_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_files/Booklication_0831_pote/app/src/main/res/layout/main_listview_item.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

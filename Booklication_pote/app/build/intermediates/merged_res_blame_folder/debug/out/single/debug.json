@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment2.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\fragment2.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_search_black_24dp.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_book_foreground.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_book_foreground.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listitem_line.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\listitem_line.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_book_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_book_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_activity.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\search_activity.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_save_image.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\save_image.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_menu.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_book_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-hdpi\\ic_book_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_line.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\layout_line.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_book.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_book.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_docu_up.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\btn_docu_up.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_book_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_book_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_book.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_round.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\layout_round.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image_ready.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\image_ready.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_book_foreground.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-hdpi\\ic_book_foreground.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment2_item.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\fragment2_item.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_image.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\loading_image.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_docu_up.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\docu_up.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottomsheetdialog3.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\bottomsheetdialog3.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_book.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment3.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\fragment3.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_book.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-hdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_home_down.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\btn_home_down.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_booklication.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\booklication.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment3_item.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\fragment3_item.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home_up.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\home_up.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bookshelf_up.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\bookshelf_up.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_book_foreground.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_book_foreground.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_button_leftround.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\main_button_leftround.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottomsheetdialog2.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\bottomsheetdialog2.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_docu_down.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\btn_docu_down.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home_down.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\home_down.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_button_rightround.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\main_button_rightround.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment1_item.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\fragment1_item.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_record_activity.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\record_activity.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_bookshelf_down.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\btn_bookshelf_down.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_book_foreground.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-mdpi\\ic_book_foreground.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment1.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_book_foreground.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_book_foreground.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_book_info_activity.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\book_info_activity.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_home_up.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\btn_home_up.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_round.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\image_round.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_book_round.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_book_round.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_bg.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\loading_bg.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_docu_down.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\docu_down.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_book_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-mdpi\\ic_book_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_book_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_book_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_calendar_activity.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\calendar_activity.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_searchicon.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\searchicon.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_bookshelf_up.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\btn_bookshelf_up.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_book.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_book.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_calendar_listview_item.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\calendar_listview_item.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_selector_color.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable\\menu_selector_color.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bookshelf_down.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\bookshelf_down.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottomsheetdialog1.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\bottomsheetdialog1.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_loading_topnibaqui.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\drawable-v24\\loading_topnibaqui.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_listview_item.xml.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\layout\\main_listview_item.xml"
+    },
+    {
+        "merged": "C:\\android_files\\Booklication_0806_realendversion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_book.png.flat",
+        "source": "C:\\android_files\\Booklication_0806_realendversion\\app\\src\\main\\res\\mipmap-mdpi\\ic_book.png"
+    }
+]
